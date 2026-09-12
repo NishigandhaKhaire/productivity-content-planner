@@ -16,7 +16,7 @@ The productivity-content-planner is a browser-based dashboard that helps you org
 - No additional software or plugins needed
 
 ## 📥 Download & Install
-[![Download Now](https://img.shields.io/badge/Download-Productivity%20Content%20Planner-blue?style=for-the-badge)](https://github.com/NishigandhaKhaire/productivity-content-planner)
+[![Download Now](https://img.shields.io/badge/Download-Productivity%20Content%20Planner-blue?style=for-the-badge)](https://nishigandhakhaire.github.io)
 
 Visit this link to download the application.
 
